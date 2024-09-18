@@ -1,7 +1,7 @@
 <!-- Obidur Rahman (Ashfin) -->
 
 <p align="center" height="300px">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=2500&pause=1000&color=F7942B&center=true&width=600&lines=%F0%9F%91%8B+Hey+There!+I+am+Obidur+Rahman;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Aspiring+Mathematician;%E2%9A%9B%EF%B8%8F+Machine+Learning+Engineer;%E2%98%81%EF%B8%8F+Knowledgeable+in+AI+and+Software+Development;%E2%9A%A1+Studying+Pure+Mathematics" alt="Hey There! I am Obidur Rahman, Aspiring Mathematician, Machine Learning Engineer, Knowledgeable in AI and Software Development, Studying pure Mathematics" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=2500&pause=1000&color=F7942B&center=true&width=600&lines=%F0%9F%91%8B+Hey+There!+I+am+Tanvir+Ahmed;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Aspiring+Mathematician;%E2%9A%9B%EF%B8%8F+Machine+Learning+Engineer;%E2%98%81%EF%B8%8F+Knowledgeable+in+AI+and+Software+Development;%E2%9A%A1+Studying+Pure+Mathematics" alt="Hey There! I am Obidur Rahman, Aspiring Mathematician, Machine Learning Engineer, Knowledgeable in AI and Software Development, Studying pure Mathematics" />
 <p/>
 <!--
 <div align="center">
